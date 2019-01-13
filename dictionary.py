@@ -1,6 +1,3 @@
-
-# import sys
-    # sys.stdout.flush()
 '''Welcome to MyDictionary
         @author : JayChaturvedi @Git : KILLBEE'''
 import json
